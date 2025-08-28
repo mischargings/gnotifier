@@ -18,7 +18,7 @@ A Javascript application to monitor Roblox profiles at your convenience.
   - [x] Detects when a user **removes a friend**
 </details>
 <details>
-  <summary>follow monitoring</summary>
+  <!-- <summary>follow monitoring</summary>
   
   - [x] Detects when a user **follows someone**
   - [x] Detects when a user **unfollows someone**
