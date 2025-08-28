@@ -1,6 +1,9 @@
 # gnotifier
 A Javascript application to monitor Roblox profiles at your convenience.
+
 ![Someone joining a game](demo/2.png)
+![Someone joining a game](demo/3.png)
+
 ## features
 <details>
   <summary>presence monitoring</summary>
