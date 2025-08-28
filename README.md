@@ -7,7 +7,7 @@ A Javascript application to monitor Roblox profiles at your convenience.
 ## features
 <!-- <details> -->
   <!-- <summary>presence monitoring</summary> -->
-  
+  ### presence monitoring
   - [x] Detects when a user goes **online / offline**
   - [x] Detects when a user **joins a game** (includes name, place ID, and join link)
   - [x] Detects when a user **leaves a game**
@@ -16,13 +16,13 @@ A Javascript application to monitor Roblox profiles at your convenience.
 <!-- </details> -->
 <!-- <details> -->
   <!-- <summary>friend monitoring</summary> -->
-  
+  ### friend monitoring
   - [x] Detects when a user **adds a new friend**
   - [x] Detects when a user **removes a friend**
 <!-- </details> -->
 <!-- <details> -->
   <!-- <summary>follow monitoring</summary> -->
-  
+  ### follow monitoring
   - [x] Detects when a user **follows someone**
   - [x] Detects when a user **unfollows someone**
   - [ ] Detects when a user **gets followed** (soon)
