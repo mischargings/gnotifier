@@ -1,0 +1,14 @@
+{
+  // discord bot shit - bot token and discord id to dm notifs to
+  "token": "discord token goes here",
+  "discordid": "discord id goes here",
+
+  // roblox cookie for authentication
+  "robloxcookie": "cookie goes here",
+  
+  // users to monitor roblox id => username
+  "usersToWatch": [7682169168],
+  "names": {
+    "7682169168": "badasscomboss"
+  }
+}
