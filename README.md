@@ -38,5 +38,5 @@ A Javascript application to monitor Roblox profiles at your convenience.
 This is purely a passion project. I do not have any intentions on monetizing any parts of this project, nor am I responsible for anything done with it, regardless if it's positive or negative.
 
 ## credits
-* mischargings
-* clt
+* [mischargings](https://github.com/mischargings)
+* [clt](https://github.com/ragebaiting)
